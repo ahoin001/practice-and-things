@@ -1,0 +1,16 @@
+.grid-container {
+
+    display: grid;
+    grid-template-columns: 1fr 2hgfr;
+    /* grid-template-rows: 25% 100px auto; */
+
+}
+
+
+
+
+
+
+.grid-item:nth-child(odd) {
+    background-color: gainsboro;
+}
